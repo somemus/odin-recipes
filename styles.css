@@ -1,7 +1,64 @@
-.im1 {
-    image-orientation: ;
-}
+
 
 #title {
+    font-family: 'Aboreto';
+    text-align: center;
+    font-size: 55px;
+    font-weight: 200;
+    font-style: normal;
     
 }
+
+.img{
+    text-align: center;
+    
+}
+
+.img.back{
+    background-color: rgba(192, 228, 180, 0.849);
+
+}
+
+
+
+.p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-indent: 5 px;
+
+}
+
+.list{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+
+}
+
+
+/* webpages why*/
+
+.head{
+    font-family: 'Amatic SC';
+    font-size: 80px;
+    font-weight: 500;
+
+}
+
+
+h3 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size:25px ;
+    background-color: bisque;
+    
+}
+
+.text {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+}
+
+h5{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
