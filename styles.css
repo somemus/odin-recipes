@@ -1,16 +1,17 @@
 body{
-    background-color: rgba(199, 165, 73, 0.822);
+    
 
 }
 
 #title {
-    font-family: 'Aboreto';
+    font-family: 'Amatic Sc';
     text-align: center;
-    font-size: 55px;
-    font-weight: 200;
+    font-size: 80px;
+    font-weight: 400;
     font-style: normal;
+    margin: 30px;
 
-    margin-top: 40px;
+    /* margin-top: 40px; */
     
 }
 
@@ -27,26 +28,38 @@ body{
 
 
 .p{
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 20px;
-    text-indent: 5 px;
+    font-family: 'Anaheim';
+    font-size: 23px;
     margin: auto;
-    width: 500px;
+    width: 470px;
+    box-sizing: border-box;
     border-style: double;
     border-width: 5px;
-    padding: 50 px 10px 10px;
+    border-color: rgb(227, 239, 250);
+    padding: 20px 30px 10px;
+
     
 
 }
 
-.list{
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 18px;
+ul {
+    list-style: none;
+    font-size: 20px;
+}
+
+ul li {
+    margin-bottom: 5px;
+    padding-left: 100px;
+}
+
+      
+      
+     
 
 }
 
 .bon{
-    
+    margin: 0px auto;
 }
 
 
