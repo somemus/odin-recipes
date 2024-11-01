@@ -1,7 +1,7 @@
-body{
+/* body{
     
 
-}
+} */
 
 #title {
     font-family: 'Amatic Sc';
@@ -9,57 +9,39 @@ body{
     font-size: 80px;
     font-weight: 400;
     font-style: normal;
-    margin: 30px;
-
-    /* margin-top: 40px; */
-    
+    margin: 40px;
 }
 
-/* .img{
-    text-align: center;
-    
-}
 
-.img.back{
-    background-color: rgba(192, 228, 180, 0.849);
-
-} */
-
-
-
-.p{
+.p {
     font-family: 'Anaheim';
     font-size: 23px;
-    margin: auto;
+    margin: 50px auto;
     width: 470px;
     box-sizing: border-box;
     border-style: double;
     border-width: 5px;
     border-color: rgb(227, 239, 250);
+    border-radius: 16px;
     padding: 20px 30px 10px;
-
-    
-
 }
 
 ul {
-    list-style: none;
+    list-style:circle;
     font-size: 20px;
+    padding-left: 90px;
 }
 
 ul li {
-    margin-bottom: 5px;
-    padding-left: 100px;
+    margin-bottom: 8px;
+    
 }
 
-      
-      
-     
-
-}
-
-.bon{
-    margin: 0px auto;
+  
+img{
+    margin: 120px auto 5px;
+    display: block;
+    opacity: 0.7;
 }
 
 
