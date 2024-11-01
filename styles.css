@@ -1,4 +1,7 @@
+body{
+    background-color: rgba(199, 165, 73, 0.822);
 
+}
 
 #title {
     font-family: 'Aboreto';
@@ -6,10 +9,12 @@
     font-size: 55px;
     font-weight: 200;
     font-style: normal;
+
+    margin-top: 40px;
     
 }
 
-.img{
+/* .img{
     text-align: center;
     
 }
@@ -17,7 +22,7 @@
 .img.back{
     background-color: rgba(192, 228, 180, 0.849);
 
-}
+} */
 
 
 
@@ -25,6 +30,12 @@
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
     text-indent: 5 px;
+    margin: auto;
+    width: 500px;
+    border-style: double;
+    border-width: 5px;
+    padding: 50 px 10px 10px;
+    
 
 }
 
@@ -32,6 +43,10 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 18px;
 
+}
+
+.bon{
+    
 }
 
 
