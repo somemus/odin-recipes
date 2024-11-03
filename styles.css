@@ -21,13 +21,13 @@
     padding: 20px 30px 10px;
 }
 
-ul {
+.links {
     list-style:circle;
     font-size: 20px;
     padding-left: 90px;
 }
 
-ul li {
+.links li {
     margin-bottom: 8px;
     
 }
@@ -70,6 +70,7 @@ h3 {
     font-weight: 100;
     padding: 4px;
     margin-bottom: 10px;
+    margin-top: 25px;
     
 }
 
@@ -78,6 +79,11 @@ h3 {
 ol {
     font-family: 'Anaheim';
     font-size: 18px;
+    
+}
+
+.text,
+ol {
     margin-bottom: 5px;
 }
 
@@ -88,11 +94,12 @@ ol {
 
 ol {
     padding-left: 16.578px;
-    margin-bottom: 100px;
+    
 }
 
-ol li {
-    margin-bottom: 5px;
+
+.logo#home {
+    margin: 60px auto 10px;
 }
 
 
