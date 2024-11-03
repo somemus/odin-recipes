@@ -33,7 +33,7 @@ ul li {
 }
 
   
-img{
+.logo {
     margin: 120px auto 5px;
     display: block;
     opacity: 0.6;
@@ -41,29 +41,58 @@ img{
 
 
 /* webpages why*/
+.page {
+    margin: 0 auto;
+    width: 600px;
+}
 
 .head{
     font-family: 'Amatic SC';
     font-size: 80px;
     font-weight: 500;
+    margin: 53px auto 5px;
 
 }
 
+.foodpic {
+    margin-top: 5px;
+    margin-bottom: 30px;
+    display: block;
+    opacity: 0.7;
+
+
+}
 
 h3 {
     font-family: 'Courier New', Courier, monospace;
-    font-size:25px ;
-    background-color: bisque;
+    font-size: 20px ;
+    background-color: rgb(227, 239, 250);
+    font-weight: 100;
+    padding: 4px;
+    margin-bottom: 10px;
     
 }
 
-.text {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+.desc,
+.text,
+ol {
+    font-family: 'Anaheim';
     font-size: 18px;
+    margin-bottom: 5px;
 }
 
-h5{
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+.text {
+    padding-left: 18px;
+    list-style: disc;
+}
+
+ol {
+    padding-left: 16.578px;
+    margin-bottom: 100px;
+}
+
+ol li {
+    margin-bottom: 5px;
 }
 
 
